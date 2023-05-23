@@ -9,8 +9,8 @@ class Dog
 
 end
   
-  bosco = Dog.new
+bosco = Dog.new
   
-  bosco.name = "Bosco"
+bosco.name = "Bosco"
   
-  puts bosco.name
+puts bosco.name
